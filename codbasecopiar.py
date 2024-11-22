@@ -6,7 +6,7 @@ def limpar_tela():
     else:  
         os.system('clear')
 
-#Peguei no chatgpt, não sabia como fazia isso#
+
 historico = []
 while True:
     print("Este é um software de calculos matemáticos, abaixo é o menu que exibe as opções para escolha de equação.")
